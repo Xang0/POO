@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Respondedor
+comment0.text=\n\ A\ classe\ Respondendor\ representa\ um\ objeto\ gerador\ de\ respostas.\n\ \u00C9\ usado\ para\ gerar\ uma\ resposta\ autom\u00E1tica\ para\ uma\ string\ de\ entrada.\n\ \n\ Traduzido\ por\ Julio\ C\u00E9sar\ Alves\ -\ 2023.10.17\n\ \n\ @author\ \ \ \ \ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\n\ @version\ \ \ \ 0.1\ (2016.02.29)\n
+comment1.params=
+comment1.target=Respondedor()
+comment1.text=\n\ Constr\u00F3i\ um\ respondedor\ -\ nada\ a\ fazer.\n
+comment2.params=mensagem
+comment2.target=java.lang.String\ generateResponse(java.lang.String)
+comment2.text=\n\ Gera\ uma\ resposta.\n\ @return\ Uma\ string\ que\ deveria\ ser\ exibida\ como\ resposta.\n
+numComments=3

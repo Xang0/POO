@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LeitorDeEntrada
+comment0.text=\r\n\ LeitorDeEntrada\ l\u00EA\ o\ texto\ digitado\ pelo\ usu\u00E1rio\ na\ entrada\ padr\u00E3o\ do\r\n\ terminal\ de\ texto.\r\n\ O\ texto\ digitado\ pelo\ usu\u00E1rio\ \u00E9\ retornado.\r\n\ \r\n\ Traduzido\ por\ Julio\ C\u00E9sar\ Alves\ -\ 2023.10.17\r\n\ \r\n\ @author\ \ \ \ \ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\r\n\ @version\ \ \ \ 0.1\ (2016.02.29)\r\n
+comment1.params=
+comment1.target=LeitorDeEntrada()
+comment1.text=\r\n\ Cria\ um\ novo\ LeitorDeEntrada\ que\ l\u00EA\ texto\ a\ partir\ do\ terminal.\r\n
+comment2.params=
+comment2.target=java.lang.String\ obterEntrada()
+comment2.text=\r\n\ L\u00EA\ uma\ linha\ de\ texto\ da\ entrada\ padrao\ (o\ terminal),\ e\r\n\ a\ retorna\ como\ uma\ String.\r\n\r\n\ @return\ \ Uma\ string\ digitada\ pelo\ usu\u00E1rio.\r\n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SistemaDeSuporte
+comment0.text=\n\ Esta\ classe\ implementa\ um\ sistema\ de\ suporte\ t\u00E9cnico.\ Ela\ \u00E9\ a\ classe\ de\n\ n\u00EDvel\ mais\ alto\ neste\ projeto.\ O\ sistema\ de\ suporte\ se\ comunica\ via\n\ entrada\ e\ sa\u00EDda\ de\ texto\ no\ terminal.\n\ \n\ Esta\ classe\ usa\ um\ objeto\ da\ classe\ LeitorDeEntrada\ para\ ler\ entradas\ digitadas\n\ pelo\ usu\u00E1rio\ e\ um\ objeto\ da\ classe\ Respondedor\ para\ gerar\ as\ respostas.\n\ Ela\ tem\ um\ lopp\ que,\ repetidamente,\ l\u00EA\ uma\ entrada\ e\ gera\ uma\ sa\u00EDda\ at\u00E9\ que\n\ os\ usu\u00E1rios\ queiram\ sair.\n\ \n\ Traduzido\ por\ Julio\ C\u00E9sar\ Alves\ -\ 2023.10.17\n\ \n\ @author\ \ \ \ \ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\n\ @version\ \ \ \ 0.1\ (2016.02.29)\n
+comment1.params=
+comment1.target=SistemaDeSuporte()
+comment1.text=\n\ Cria\ um\ sistema\ de\ suporte\ t\u00E9cnico.\n
+comment2.params=
+comment2.target=void\ iniciar()
+comment2.text=\n\ Inicia\ o\ sistema\ de\ suporte\ t\u00E9cnico.\ Come\u00E7a\ com\ a\ impress\u00E3o\n\ de\ uma\ mensagem\ de\ boas-vindas\ e\ entrada\ em\ um\ di\u00E1logo\ com\ o\n\ usu\u00E1rio,\ at\u00E9\ que\ o\ usu\u00E1rio\ termine\ a\ conversa.\n
+comment3.params=
+comment3.target=void\ imprimirBoasVindas()
+comment3.text=\n\ Imprime\ na\ tela\ uma\ mensagem\ de\ boas-vindas.\n
+comment4.params=
+comment4.target=void\ imprimirDespedida()
+comment4.text=\n\ Imprime\ uma\ mensagem\ de\ despedida\ na\ tela.\n
+numComments=5
